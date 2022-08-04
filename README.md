@@ -4,7 +4,8 @@ Criação do artigo introdutório sobre Elastic Stack para contribuição no pro
 
 > Caso queira saber mais sobre o programa de contribuição da Elastic [**clique aqui**](https://www.elastic.co/pt/community/contributor).
 
-<br></br>
+<a href="https://ibb.co/56cKBBj"><img src="https://i.ibb.co/XbJYSS5/elastic.png" alt="elastic" width="300" height="100" border="0"></a>
+
 ## O QUE É ELASTIC STACK?
 
 Para quem deseja entrar no mundo Elastic e usufruir dessa excelente ferramenta, primeiro precisará entender o que é o **Elastic Stack**.
